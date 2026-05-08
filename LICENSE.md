@@ -1,4 +1,4 @@
-
+Enhance Magnetic for macOS with Magnetic for macOS rare Workflow: window-management & OCR-support, the #1 workflow. Includes window-management and OCR-support for a smoother macOS
 
 
 
